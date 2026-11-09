@@ -2,7 +2,7 @@
 
 AI 会员代充、成品号等公开报价汇总，每 2 小时自动更新。网站：https://ai-huiyuan-bijia.pages.dev/
 
-数据更新于 2026-11-09 18:06（北京时间）
+数据更新于 2026-11-09 20:07（北京时间）
 
 ## 行情速览
 
@@ -15,7 +15,7 @@ AI 会员代充、成品号等公开报价汇总，每 2 小时自动更新。�
 | ChatGPT Pro 100 | 代充 | 30 天（含未写周期，按月计） | 615 | 18 | [沐风小铺](https://ai-huiyuan-bijia.pages.dev/go/mufeng-kafu_eg_gpt_100/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-pro-100/) |
 | ChatGPT Pro 200 | 代充 | 30 天（含未写周期，按月计） | 969 | 17 | [云枢AI批发小店](https://ai-huiyuan-bijia.pages.dev/go/yunshu-ai-3q773k/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-pro-200/) |
 | ChatGPT Pro 500 | 代充 | 30 天（含未写周期，按月计） | 3000 | 9 | [10886 源头发卡网](https://ai-huiyuan-bijia.pages.dev/go/fk10886-34/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-pro-500/) |
-| Claude Pro | 代充 | 30 天 | 148.5 | 9 | [泉莘杂货店](https://ai-huiyuan-bijia.pages.dev/go/quanxin-46/) | [查看](https://ai-huiyuan-bijia.pages.dev/claude-pro/) |
+| Claude Pro | 代充 | 30 天 | 148.5 | 8 | [泉莘杂货店](https://ai-huiyuan-bijia.pages.dev/go/quanxin-46/) | [查看](https://ai-huiyuan-bijia.pages.dev/claude-pro/) |
 | Claude Max 5x | 代充 | 30 天（含未写周期，按月计） | 836 | 9 | [AI Access Hub](https://ai-huiyuan-bijia.pages.dev/go/ai-access-hub-127/) | [查看](https://ai-huiyuan-bijia.pages.dev/claude-max-5x/) |
 | Claude Max 20x | 代充 | 30 天（含未写周期，按月计） | 1770 | 6 | [智启AI服务站](https://ai-huiyuan-bijia.pages.dev/go/zhiqi-ai-20r02c/) | [查看](https://ai-huiyuan-bijia.pages.dev/claude-max-20x/) |
 | Gemini Pro（Google AI Pro） | 代充 | 180 天 | 16 | 3 | [AI小店](https://ai-huiyuan-bijia.pages.dev/go/ai-xiaodian-jy5ea5/) | [查看](https://ai-huiyuan-bijia.pages.dev/gemini-pro/) |
@@ -39,7 +39,7 @@ AI 会员代充、成品号等公开报价汇总，每 2 小时自动更新。�
 - ChatGPT Pro 100 代充·30 天：18 家有报价，最低 615 元，最高 879 元。其中有商品未写周期，按月计。
 - ChatGPT Pro 200 代充·30 天：17 家有报价，最低 969 元，最高 1667.5 元。其中有商品未写周期，按月计。
 - ChatGPT Pro 500 代充·30 天：9 家有报价，最低 3000 元，最高 3498 元。其中有商品未写周期，按月计。
-- Claude Pro 代充·30 天：9 家有报价，最低 148.5 元，最高 257.52 元。
+- Claude Pro 代充·30 天：8 家有报价，最低 148.5 元，最高 249 元。
 - Claude Max 5x 代充·30 天：9 家有报价，最低 836 元，最高 1035 元。其中有商品未写周期，按月计。
 - Claude Max 20x 代充·30 天：6 家有报价，最低 1770 元，最高 2300 元。其中有商品未写周期，按月计。
 - Gemini Pro（Google AI Pro） 代充·180 天：3 家有报价，最低 16 元，最高 37.4 元。
