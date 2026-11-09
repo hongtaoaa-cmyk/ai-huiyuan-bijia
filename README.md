@@ -2,13 +2,13 @@
 
 AI 会员代充、成品号等公开报价汇总，每 2 小时自动更新。网站：https://ai-huiyuan-bijia.pages.dev/
 
-数据更新于 2026-11-09 08:08（北京时间）
+数据更新于 2026-11-09 10:08（北京时间）
 
 ## 行情速览
 
 | 套餐 | 买法 | 周期 | 最低价（元） | 有报价商家数 | 最低价商品 | 套餐页 |
 | --- | --- | --- | --- | --- | --- | --- |
-| ChatGPT Plus | 代充 | 30 天（含未写周期，按月计） | 106.9 | 27 | [云枢AI批发小店](https://ai-huiyuan-bijia.pages.dev/go/yunshu-ai-pt1wsx/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
+| ChatGPT Plus | 代充 | 30 天（含未写周期，按月计） | 110 | 26 | [10886 源头发卡网](https://ai-huiyuan-bijia.pages.dev/go/fk10886-26/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
 | ChatGPT Plus | 代充 | 365 天 | 1340 | 4 | [智启AI服务站](https://ai-huiyuan-bijia.pages.dev/go/zhiqi-ai-jk8vvm/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
 | ChatGPT Plus | 独享成品号 | 30 天 | 52 | 5 | [智启AI服务站](https://ai-huiyuan-bijia.pages.dev/go/zhiqi-ai-a3xdnw/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
 | ChatGPT Plus | 独享成品号 | 120 天 | 335 | 1 | [智启AI服务站](https://ai-huiyuan-bijia.pages.dev/go/zhiqi-ai-vbkzxn/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
@@ -31,7 +31,7 @@ AI 会员代充、成品号等公开报价汇总，每 2 小时自动更新。�
 
 ## 行情短评
 
-- ChatGPT Plus 代充·30 天：27 家有报价，最低 106.9 元，最高 189 元。其中有商品未写周期，按月计。
+- ChatGPT Plus 代充·30 天：26 家有报价，最低 110 元，最高 189 元。其中有商品未写周期，按月计。
 - ChatGPT Plus 代充·365 天：4 家有报价，最低 1340 元，最高 1725 元。
 - ChatGPT Plus 独享成品号·30 天：5 家有报价，最低 52 元，最高 100 元。
 - ChatGPT Plus 独享成品号·120 天：1 家有报价，最低 335 元，最高 347 元。
