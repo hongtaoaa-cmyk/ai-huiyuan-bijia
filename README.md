@@ -2,18 +2,18 @@
 
 AI 会员代充、成品号等公开报价汇总，每 2 小时自动更新。网站：https://ai-huiyuan-bijia.pages.dev/
 
-数据更新于 2026-11-10 18:05（北京时间）
+数据更新于 2026-11-10 20:05（北京时间）
 
 ## 行情速览
 
 | 套餐 | 买法 | 周期 | 最低价（元） | 有报价商家数 | 最低价商品 | 套餐页 |
 | --- | --- | --- | --- | --- | --- | --- |
-| ChatGPT Plus | 代充 | 30 天（含未写周期，按月计） | 98 | 26 | [ChatGPT充值网（zhanghaoshang.com）](https://ai-huiyuan-bijia.pages.dev/go/zhanghaoshang-17/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
+| ChatGPT Plus | 代充 | 30 天（含未写周期，按月计） | 106.9 | 26 | [云枢AI批发小店](https://ai-huiyuan-bijia.pages.dev/go/yunshu-ai-pt1wsx/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
 | ChatGPT Plus | 代充 | 365 天 | 1340 | 4 | [智启AI服务站](https://ai-huiyuan-bijia.pages.dev/go/zhiqi-ai-jk8vvm/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
-| ChatGPT Plus | 独享成品号 | 30 天 | 42.4 | 5 | [AI小店](https://ai-huiyuan-bijia.pages.dev/go/ai-xiaodian-m60v5d/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
+| ChatGPT Plus | 独享成品号 | 30 天 | 40.8 | 5 | [AI小店](https://ai-huiyuan-bijia.pages.dev/go/ai-xiaodian-m60v5d/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
 | ChatGPT Plus | 独享成品号 | 120 天 | 335 | 1 | [智启AI服务站](https://ai-huiyuan-bijia.pages.dev/go/zhiqi-ai-vbkzxn/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-plus/) |
 | ChatGPT Pro 100 | 代充 | 30 天（含未写周期，按月计） | 600 | 18 | [沐风小铺](https://ai-huiyuan-bijia.pages.dev/go/mufeng-ios_gpt_100/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-pro-100/) |
-| ChatGPT Pro 200 | 代充 | 30 天（含未写周期，按月计） | 969 | 17 | [云枢AI批发小店](https://ai-huiyuan-bijia.pages.dev/go/yunshu-ai-3q773k/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-pro-200/) |
+| ChatGPT Pro 200 | 代充 | 30 天（含未写周期，按月计） | 969 | 18 | [云枢AI批发小店](https://ai-huiyuan-bijia.pages.dev/go/yunshu-ai-3q773k/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-pro-200/) |
 | ChatGPT Pro 500 | 代充 | 30 天（含未写周期，按月计） | 3000 | 9 | [10886 源头发卡网](https://ai-huiyuan-bijia.pages.dev/go/fk10886-34/) | [查看](https://ai-huiyuan-bijia.pages.dev/chatgpt-pro-500/) |
 | Claude Pro | 代充 | 30 天 | 148.5 | 8 | [泉莘杂货店](https://ai-huiyuan-bijia.pages.dev/go/quanxin-46/) | [查看](https://ai-huiyuan-bijia.pages.dev/claude-pro/) |
 | Claude Max 5x | 代充 | 30 天（含未写周期，按月计） | 836 | 9 | [AI Access Hub](https://ai-huiyuan-bijia.pages.dev/go/ai-access-hub-127/) | [查看](https://ai-huiyuan-bijia.pages.dev/claude-max-5x/) |
@@ -33,12 +33,12 @@ AI 会员代充、成品号等公开报价汇总，每 2 小时自动更新。�
 
 ## 行情短评
 
-- ChatGPT Plus 代充·30 天：26 家有报价，最低 98 元，最高 189 元。其中有商品未写周期，按月计。
+- ChatGPT Plus 代充·30 天：26 家有报价，最低 106.9 元，最高 189 元。其中有商品未写周期，按月计。
 - ChatGPT Plus 代充·365 天：4 家有报价，最低 1340 元，最高 1725 元。
-- ChatGPT Plus 独享成品号·30 天：5 家有报价，最低 42.4 元，最高 100 元。
+- ChatGPT Plus 独享成品号·30 天：5 家有报价，最低 40.8 元，最高 100 元。
 - ChatGPT Plus 独享成品号·120 天：1 家有报价，最低 335 元，最高 347 元。
 - ChatGPT Pro 100 代充·30 天：18 家有报价，最低 600 元，最高 879 元。其中有商品未写周期，按月计。
-- ChatGPT Pro 200 代充·30 天：17 家有报价，最低 969 元，最高 1667.5 元。其中有商品未写周期，按月计。
+- ChatGPT Pro 200 代充·30 天：18 家有报价，最低 969 元，最高 1667.5 元。其中有商品未写周期，按月计。
 - ChatGPT Pro 500 代充·30 天：9 家有报价，最低 3000 元，最高 3498 元。其中有商品未写周期，按月计。
 - Claude Pro 代充·30 天：8 家有报价，最低 148.5 元，最高 249 元。
 - Claude Max 5x 代充·30 天：9 家有报价，最低 836 元，最高 1035 元。其中有商品未写周期，按月计。
